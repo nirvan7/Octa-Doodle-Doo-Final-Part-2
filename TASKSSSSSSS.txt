@@ -1,0 +1,17 @@
+Things do do:ALL DONE YAY!!!!!!!
+//1.Adjust the collider of the prince(In class)
+//2.Add an Image for the monster(Find image in class)(GREEN MONSTER THREE EYED FOUND IN PNGJOY)
+//3.Add random images for flowers and crystals(DONE)
+//4.Count the no. of crystals and flowers collected in variables(optional)(At Homeee)
+//5.Use tint whenever the prince loses a life(IN CLASS)(Not done probably will do in project(if maam heps))
+//6.Add a image of a heart.Randomly display the heart after a certain framecount and if the prince touches it,he gets an extra life(DONE) 
+//7.Display insructions telling the players how to play the game
+//8.Prevent the prince from going out of the canvas(AT HOMEEE)
+//9.Amma wants crystals and flowers to shower on princess as soon as the game ends with the prince winning(If time permits)
+
+
+
+                    FINISH THE GAME AND COMPLETE THE PROJECTS ON TIME
+                    AND MOST IMPORTANTLY.....HAVE FUN!
+                        
+                        OCTA DOODLE DOO COMPLETE(ALMOST)
